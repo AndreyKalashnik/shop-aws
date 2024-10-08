@@ -1,4 +1,5 @@
 # React-shop-cloudfront
+[S3 bucket deployment link](http://reactecom.s3-website-us-east-1.amazonaws.com/)
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
